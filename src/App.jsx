@@ -6,6 +6,13 @@ import FormState from "./components/FormState";
 import MultipleCounters from "./components/MultipleCounters";
 import TodoList from "./components/TodoList";
 import LikesDislikes from "./components/LikesDislikes";
+import TabNavigation from "./components/TabNavigation";
+import DynamicBg from "./components/DynamicBg";
+import CounterWithLimit from "./components/CounterWithLimits";
+import Timer from "./components/Timer";
+import ShopingCart from "./components/ShopingCart";
+import DerivedState from "./components/DerivedState";
+import CounterWithHistory from "./components/CounterWithHistory";
 
 export default function App() {
   return (
@@ -18,6 +25,13 @@ export default function App() {
       <MultipleCounters />
       <TodoList />
       <LikesDislikes/>
+      <TabNavigation/>
+      <DynamicBg/>
+      <CounterWithLimit/>
+      <Timer/>
+      <ShopingCart/>
+      <DerivedState/>
+      <CounterWithHistory/>
     </>
   );
 }
