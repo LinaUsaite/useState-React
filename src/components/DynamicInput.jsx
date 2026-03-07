@@ -4,7 +4,7 @@ export default function DynamicInput() {
   const [name, setName] = useState("");
   return (
     <div className="ml-30 mt-20 w-100 h-50 shadow rounded flex flex-col items-center gap-6 pt-4">
-      <h1>Dynamic Input field (task3)</h1>
+      <h1>Dynamic Input field (task3 DynamicInput.jsx)</h1>
       <input 
       type="text" 
       placeholder="Enter your name"

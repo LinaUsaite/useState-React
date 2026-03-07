@@ -6,7 +6,7 @@ export default function TodoList() {
 
   return (
     <div className="ml-30 mt-20 w-100 shadow rounded flex flex-col items-center gap-6 pt-4">
-      <h1>Todo List (task 7)</h1>
+      <h1>TodoList.jsx (task 7)</h1>
       <input
         type="text"
         value={task}

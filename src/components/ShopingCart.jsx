@@ -11,7 +11,7 @@ export default function ShopingCart() {
 
   return (
     <div className="ml-30 mt-20 w-100  shadow rounded flex flex-col items-center gap-6 pt-4">
-      <h1>Shoping Cart (task 13)</h1>
+      <h1>Shoping Cart (task 13 ShopingCart.jsx)</h1>
       {products.map((product) => (
         <div key={product.id} className="flex gap-4 items-center">
           <p>

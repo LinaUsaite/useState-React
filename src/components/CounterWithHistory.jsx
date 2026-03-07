@@ -6,7 +6,7 @@ export default function CounterWithHistory(){
      
     return(
         <div className="ml-30 mt-20 w-100  shadow rounded flex flex-col items-center gap-6 pt-4" >
-            Counter with History (task 15)
+            Counter with History (task 15 CounterWithHistory.jsx)
 <div className="flex gap-4">
     <button
   onClick={() => {

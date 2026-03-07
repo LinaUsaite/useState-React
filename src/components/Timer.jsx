@@ -14,7 +14,7 @@ setTime((prev) => prev + 1);
 
   return (
     <div className="ml-30 mt-20 w-100  shadow rounded flex flex-col items-center gap-6 pt-4 pb-4">
-      <h1>Timer (task 12)</h1>
+      <h1>Timer.jsx (task 12)</h1>
       <div className="shadow w-80 h-10 text-center pt-2">{time}</div>
       <div className="flex gap-4">
         <button

@@ -6,7 +6,7 @@ export default function CounterWithLimit() {
     return(
 
         <div className="ml-30 mt-20 w-100 h-50 shadow rounded flex flex-col items-center gap-6 pt-4">
-    <h1>Counter with Limits(task 11)</h1>
+    <h1>Counter with Limits(task 11 CounterWithLimit.jsx)</h1>
     <div
     className="shadow w-60 h-10 text-center p-2">{count}</div>
     <div className="flex gap-4 ">

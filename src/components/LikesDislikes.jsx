@@ -6,7 +6,7 @@ export default function LikesDislikes(){
 
     return(
 <div className="ml-30 mt-20 w-100  shadow rounded flex flex-col items-center gap-6 pt-4 pb-4">
-    <h1>Like/Dislike Buttons (task8)</h1>
+    <h1>Like/Dislike Buttons (task8 LikesDislikes.jsx)</h1>
    <div className="flex gap-4">
     <div className="bg-pink-300 rounded py-1 px-2" >{like}</div>
     <button

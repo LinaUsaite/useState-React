@@ -8,7 +8,7 @@ export default function FormState() {
 
     return(
         <div className="ml-30 mt-20 w-100  shadow rounded flex flex-col items-center gap-6 pt-4">
-            <h1>Form State Management (task5)</h1>
+            <h1>Form State Management (task5 FormState.jsx)</h1>
         <form action=""
         className="flex flex-col">
             <label htmlFor="name">Name</label>

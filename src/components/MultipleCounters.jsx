@@ -6,7 +6,7 @@ export default function MultipleCounters() {
   
   return (
     <div className="ml-30 mt-20 w-100  shadow rounded flex flex-col items-center gap-6 pt-4">
-        <h1>Multiple Counters (task6)</h1>
+        <h1>Multiple Counters (task6 MultipleCounters.jsx)</h1>
       <div>
         <div className="shadow w-60 h-10 text-center p-2">{count1}</div>
         <div className="flex gap-4 ">

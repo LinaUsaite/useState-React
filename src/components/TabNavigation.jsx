@@ -5,7 +5,7 @@ export default function TabNavigation() {
 
   return (
     <div className="ml-30 mt-20 w-100  shadow rounded flex flex-col items-center gap-6 pt-4">
-        <h1>Tab Navigation (task 9)</h1>
+        <h1>Tab Navigation (task 9 TabNavigation.jsx)</h1>
   <div className="flex gap-4">
 <button onClick={()=> setActiveTab("home")}
     className={activeTab === "home"

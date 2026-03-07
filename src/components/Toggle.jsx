@@ -5,7 +5,7 @@ export default function Toggle() {
 
   return (
     <div className="ml-30 mt-20 w-100 h-50 shadow rounded flex flex-col items-center gap-6 pt-4">
-      <h1>Toggle(task2)</h1>
+      <h1>Toggle.jsx (task2)</h1>
       <p>{isOn ? "ON" : "OFF"}</p>
       <button
         onClick={() => setIsOn(!isOn)}
